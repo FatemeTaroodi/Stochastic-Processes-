@@ -1,5 +1,5 @@
 # Stochastic-Processes-
-📘 Stochastic Processes – Course Summary
+Stochastic Processes – Course Summary
 This repository contains a collection of Python notebooks and simulations related to topics covered in a Stochastic Processes course I taught during the term. The course followed the Persian textbook:
 
 Einollah Pasha, Introduction to Stochastic Processes, Payame Noor University Press.
@@ -7,7 +7,7 @@ Einollah Pasha, Introduction to Stochastic Processes, Payame Noor University Pre
 
 This textbook provides a comprehensive introduction to stochastic models and their applications, tailored for undergraduate and graduate students in statistics and related fields.
 
-🧠 Key Topics Covered
+ Key Topics Covered
 Review of Probability & Stochastic Processes Introduction
 A refresher on probability theory and a high-level overview of stochastic processes.
 
@@ -27,7 +27,7 @@ Fundamental concepts in renewal processes, inter-arrival times, and renewal func
 Einollah Pasha, Introduction to Stochastic Processes, Payame Noor University Press (in Persian).
 Available online: Havoshbook
 
-Note on Code Language:
+**Note on Code Language:**
 The code examples and notebooks in this repository are written primarily in Persian. This choice was made to accommodate some students in the course who were not fully comfortable with English. Comments and explanations within the code are provided in Persian to facilitate better understanding of the stochastic processes concepts covered.
 
 
