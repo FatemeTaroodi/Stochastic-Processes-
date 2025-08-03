@@ -7,7 +7,7 @@ Einollah Pasha, Introduction to Stochastic Processes, Payame Noor University Pre
 
 This textbook provides a comprehensive introduction to stochastic models and their applications, tailored for undergraduate and graduate students in statistics and related fields.
 
- Key Topics Covered
+ **Key Topics Covered**
 Review of Probability & Stochastic Processes Introduction
 A refresher on probability theory and a high-level overview of stochastic processes.
 
