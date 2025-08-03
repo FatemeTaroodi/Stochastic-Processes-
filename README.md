@@ -26,3 +26,8 @@ Fundamental concepts in renewal processes, inter-arrival times, and renewal func
 📚 Reference Textbook
 Einollah Pasha, Introduction to Stochastic Processes, Payame Noor University Press (in Persian).
 Available online: Havoshbook
+
+Note on Code Language:
+The code examples and notebooks in this repository are written primarily in Persian. This choice was made to accommodate some students in the course who were not fully comfortable with English. Comments and explanations within the code are provided in Persian to facilitate better understanding of the stochastic processes concepts covered.
+
+
